@@ -1,0 +1,10 @@
+C:\Users\Mangabon\source\repos\TestApp\TestApp\bin\Debug\TestApp.exe.config
+C:\Users\Mangabon\source\repos\TestApp\TestApp\bin\Debug\TestApp.exe
+C:\Users\Mangabon\source\repos\TestApp\TestApp\bin\Debug\TestApp.pdb
+C:\Users\Mangabon\source\repos\TestApp\TestApp\bin\Debug\TestLibrary.dll
+C:\Users\Mangabon\source\repos\TestApp\TestApp\bin\Debug\TestLibrary.pdb
+C:\Users\Mangabon\source\repos\TestApp\TestApp\obj\Debug\TestApp.csprojAssemblyReference.cache
+C:\Users\Mangabon\source\repos\TestApp\TestApp\obj\Debug\TestApp.csproj.CoreCompileInputs.cache
+C:\Users\Mangabon\source\repos\TestApp\TestApp\obj\Debug\TestApp.csproj.CopyComplete
+C:\Users\Mangabon\source\repos\TestApp\TestApp\obj\Debug\TestApp.exe
+C:\Users\Mangabon\source\repos\TestApp\TestApp\obj\Debug\TestApp.pdb

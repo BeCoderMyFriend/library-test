@@ -1,0 +1,6 @@
+C:\Users\Mangabon\source\repos\TestLibrary\TestLibrary\bin\Debug\TestLibrary.dll
+C:\Users\Mangabon\source\repos\TestLibrary\TestLibrary\bin\Debug\TestLibrary.pdb
+C:\Users\Mangabon\source\repos\TestLibrary\TestLibrary\obj\Debug\TestLibrary.csprojAssemblyReference.cache
+C:\Users\Mangabon\source\repos\TestLibrary\TestLibrary\obj\Debug\TestLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Mangabon\source\repos\TestLibrary\TestLibrary\obj\Debug\TestLibrary.dll
+C:\Users\Mangabon\source\repos\TestLibrary\TestLibrary\obj\Debug\TestLibrary.pdb
